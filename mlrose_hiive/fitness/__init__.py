@@ -8,5 +8,5 @@ from .max_k_color import MaxKColor
 from .knapsack import Knapsack
 from .queens import Queens
 from .travelling_sales import TravellingSales
-
+from .custom_tsp import CustomTSP
 from .custom_fitness import CustomFitness
